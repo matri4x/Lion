@@ -13,7 +13,7 @@ Get APP ID and API HASH from [HERE](https://my.telegram.org) and BOT TOKEN from 
     
   </a>
   <a href="https://github.com/shnider0/MATRIX">
-    <img src="https://img.shields.io/github/stars/Jisan09/catuserbot?style=social">
+    <img src="#">
   </a>
 </p>
 
