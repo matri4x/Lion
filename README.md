@@ -17,10 +17,10 @@ Get APP ID and API HASH from [HERE](https://my.telegram.org) and BOT TOKEN from 
 </p>
 
 
-[![lion userbot logo](https://e.top4top.io/p_1762wrnze1.png)](https://heroku.com/deploy)
+[![lion userbot logo](https://f.top4top.io/p_1762jt5041.png)](https://heroku.com/deploy)
 
 
-### Join [here](https://t.me/f1f0f1) for updates and tuts and [here](https://t.me/f1f0f1) for discussion and bugs
+### Join [here](https://t.me/f0f1f0) for updates and tuts and [here](https://t.me/f0f1f0) for discussion and bugs
 
 ### The Normal Way
 
