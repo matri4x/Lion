@@ -9,7 +9,7 @@ Get APP ID and API HASH from [HERE](https://my.telegram.org) and BOT TOKEN from 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shnider0/MATRIX)
 <p align="center">
   <a href="https://github.com/shnider0/MATRIX/fork">
-    <img src="https://fsb.zobj.net/crop.php?r=PdkSnlpuRdyPaHZuPsHPwthLsqLbY2OyTRLejf5noxB9Ip2rwm1D9RrJcymXbFjYt410VFOCB1kvMr66-mKcom1XJjrPS3n7oTWg0ezHhAtC3rPoMHNDWpKVPbPeE-LHHZiMr4s7vUBhZfnH">
+    <img src="#">
     
   </a>
   <a href="https://github.com/shnider0/MATRIX">
@@ -18,7 +18,7 @@ Get APP ID and API HASH from [HERE](https://my.telegram.org) and BOT TOKEN from 
 </p>
 
 
-[![MATRIX](https://telegra.ph/file/7e1e89621fabbf02596f8.jpg)](https://heroku.com/deploy)
+[![MATRIX](https://fsb.zobj.net/crop.php?r=PdkSnlpuRdyPaHZuPsHPwthLsqLbY2OyTRLejf5noxB9Ip2rwm1D9RrJcymXbFjYt410VFOCB1kvMr66-mKcom1XJjrPS3n7oTWg0ezHhAtC3rPoMHNDWpKVPbPeE-LHHZiMr4s7vUBhZfnH)](https://heroku.com/deploy)
 
 
 ### Join [here](https://t.me/f0f1f0) for updates and tuts and [here](https://t.me/f0f1f0) for discussion and bugs
