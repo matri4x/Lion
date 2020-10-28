@@ -1,7 +1,7 @@
 {
-  "name": "Catuserbot",
-  "description": "Userbot created by https://t.me/mrconfused contact @catuserbot_support for support and Custom fork by @Jisan7509",
-  "logo": "https://telegra.ph/file/3d60313110c58684b31ea.jpg",
+  "name": "LION_USER",
+  "description": "Userbot created by https://t.me/F1F0F1 contact @F1F0F1 for support and Custom fork by @C5C5C5",
+  "logo": "https://e.top4top.io/p_1762wrnze1.png",
   "keywords": [
     "telegram",
     "userbot",
@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Jisan09/catuserbot/",
+  "repository": "https://github.com/shnider0/Lion",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -23,35 +23,37 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Give your name, like Jisan",
-      "value": ""
+      "description": "Give your name, like LION",
+      "value": "LION"
+     "required": false
     },
     "LIVE_USERNAME": {
-      "description": "give your tg username, like @Jisan7509",
-      "value": ""
+      "description": "give your tg username, like @C5C5C5",
+      "value": "@F1F0F1"
+      "required": false
     },
     "APP_ID": {
-      "description": "Get this value from my.telegram.org! Please do not steal",
+      "description": "ايبي ايديي",
       "value": ""
     },
     "API_HASH": {
-      "description": "Get this value from my.telegram.org! Please do not steal",
+      "description": "ايبي هاشش",
       "value": ""
     },
     "STRING_SESSION": {
-      "description": "Get this value by running python3 telesetup.py locally",
+      "description": "كود التيرمكس",
       "value": ""
     },
     "TG_BOT_USER_NAME_BF_HER": {
-      "description": "Needed for inline buttons maker. Make a bot at http://telegram.dog/BotFather and get the username of your bot",
+      "description": "معرف البوت",
       "value": ""
     },
     "TG_BOT_TOKEN_BF_HER": {
-      "description": "Needed for inline buttons maker. Make a bot at http://telegram.dog/BotFather and get the token of your bot.Worth it. Get it.",
+      "description": "توكن البوت",
       "value": ""
     },
     "HEROKU_API_KEY": {
-      "description": "Required for updating the bot and other stuff get it from https://dashboard.heroku.com/account",
+      "description": "كود هيروكو https://dashboard.heroku.com/account",
       "value": "",
       "required": false
     },
@@ -82,7 +84,7 @@
     },
     "ALIVE_PIC": {
       "description": "the pic that to show in your alive message url.",
-      "value": "",
+      "value": "https://github.com/shnider0/Lion",
       "required": false
     },
     "AUTONAME": {
@@ -107,7 +109,7 @@
     },
     "TZ": {
       "description": "Required for Correct Time on autopic/get time. Know your timezone from http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
-      "value": "Asia/Kolkata",
+      "value": "Asia/BAGDAD",
       "required": false
     }
   },
