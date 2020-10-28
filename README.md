@@ -1,27 +1,27 @@
 
-# CAT USERBOT
+##lion_USERBOT
 
 ### The Easy Way to deploy the bot
 Get APP ID and API HASH from [HERE](https://my.telegram.org) and BOT TOKEN from [Bot Father](https://t.me/botfather) and then Generate stringsession by clicking on run.on.repl.it button below and then click on deploy to heroku . Before clicking on deploy to heroku just click on fork and star just below
 
 [![Get string session](https://repl.it/badge/github/sandy1709/sandeep1709)](https://generatestringsession.sandeep1709.repl.run/)
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jisan09/catuserbot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shnider0/Lion)
 <p align="center">
-  <a href="https://github.com/Jisan09/catuserbot/fork">
+  <a href="https://github.com/shnider0/Lion/fork">
     <img src="https://img.shields.io/github/forks/Jisan09/catuserbot?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/Jisan09/catuserbot">
+  <a href="https://github.com/shnider0/Lion">
     <img src="https://img.shields.io/github/stars/Jisan09/catuserbot?style=social">
   </a>
 </p>
 
 
-[![catuserbot logo](https://e.top4top.io/p_1762wrnze1.png)](https://heroku.com/deploy)
+[![lion userbot logo](https://e.top4top.io/p_1762wrnze1.png)](https://heroku.com/deploy)
 
 
-### Join [here](https://t.me/catuserbot17) for updates and tuts and [here](https://t.me/catuserbot_support) for discussion and bugs
+### Join [here](https://t.me/f1f0f1) for updates and tuts and [here](https://t.me/f1f0f1) for discussion and bugs
 
 ### The Normal Way
 
