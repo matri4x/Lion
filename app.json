@@ -72,11 +72,7 @@
       "value": "-1051754159",
       "required": false
     },
-    "DOWNLOAD_PFP_URL_CLOCK": {
-      "description": "Needed for autopic module. A url that is a preview link of your Profile Pic",
-      "value": "",
-      "required": false
-    },
+  
     "TZ": {
       "description": "Required for Correct Time on autopic/get time. Know your timezone from http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
       "value": "Asia/BAGDAD",
