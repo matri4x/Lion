@@ -25,12 +25,10 @@
     "ALIVE_NAME": {
       "description": "Give your name, like LION",
       "value": "LION"
-     "required" : false
     },
     "LIVE_USERNAME": {
       "description": "give your tg username, like @C5C5C5",
       "value": "@F1F0F1"
-      "required": false
     },
     "APP_ID": {
       "description": "ايبي ايديي",
