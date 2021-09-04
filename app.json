@@ -12,7 +12,7 @@
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
       "value": "ANYTHING"
-    },
+    }
     
 }
 
