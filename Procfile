@@ -1,1 +1,1 @@
-userbot: bash .github/clone.sh
+Worker: python3 var.py
